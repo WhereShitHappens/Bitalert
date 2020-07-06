@@ -20,5 +20,8 @@
 > Standalone package upcoming
 
 
+![GitHub Logo](https://raw.githubusercontent.com/WhereShitHappens/WhereShitHappens.github.io/master/assets/img/about-philosophy.jpg)
+
+
 
 
