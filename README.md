@@ -17,7 +17,7 @@ Bitalert sends you desktop notifications if the price of BTC goes above or below
 2. Open the terminal and navigate to that folder
 3. type in **python3 bitalert.py**
 
-> Standalone package upcoming
+> Standalone package coming soon
 
 
 ![GitHub Logo](https://raw.githubusercontent.com/WhereShitHappens/WhereShitHappens.github.io/master/assets/img/about-philosophy.jpg)
