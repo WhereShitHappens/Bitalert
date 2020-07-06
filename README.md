@@ -8,3 +8,9 @@
 - Progress bar showing what direction the price is moving
 
 
+#### How to run:
+1. Put both files in the same folder
+2. Open the terminal and navigate to that folder
+3. type in **python3 bitalert.py**
+
+> Standalone package upcoming
