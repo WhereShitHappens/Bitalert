@@ -1,5 +1,5 @@
 ### Bitalert v0.1.1
- Get desktop notifications if the price of BTC goes above or below a price range that you have set.
+Bitalert sends you desktop notifications if the price of BTC goes above or below a price range that you have set.
  
  
 ![GitHub Logo](https://raw.githubusercontent.com/WhereShitHappens/WhereShitHappens.github.io/master/img/bitalert.png)
