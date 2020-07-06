@@ -4,7 +4,7 @@
 #### Features:
 - Price of BTC automatically updated every 10 seconds
 - Option to disable notifications
-- BTC price according to www.blockchain.com
+- BTC price pulled from www.blockchain.com
 - Progress bar showing what direction the price is moving
 
 
