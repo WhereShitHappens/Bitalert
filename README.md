@@ -13,7 +13,7 @@
 
 
 #### How to run:
-1. Put both files in the same folder
+1. Put both files (bitalert.glade and bitalert.py) in the same folder
 2. Open the terminal and navigate to that folder
 3. type in **python3 bitalert.py**
 
