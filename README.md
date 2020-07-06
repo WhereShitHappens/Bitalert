@@ -1,6 +1,10 @@
 ### Bitalert v0.1.0
  Get desktop notifications if the price of BTC goes above or below a price range that you have set.
  
+ 
+![GitHub Logo](https://raw.githubusercontent.com/WhereShitHappens/WhereShitHappens.github.io/master/img/bitalert.png)
+
+ 
 #### Features:
 - Price of BTC automatically updated every 10 seconds
 - Option to disable notifications
@@ -14,3 +18,7 @@
 3. type in **python3 bitalert.py**
 
 > Standalone package upcoming
+
+
+
+
